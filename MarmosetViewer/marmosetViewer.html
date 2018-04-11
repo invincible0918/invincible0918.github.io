@@ -42,15 +42,15 @@
 			<a href="http://threejs.org" target="_blank" rel="noopener">three.js</a> - webgl physically based material - <a href="http://www.polycount.com/forum/showthread.php?t=130641" target="_blank" rel="noopener">Cerberus(FFVII Gun) model</a> by Andrew Maximov.
 		</div>
 
-		<script src="js/three.min.js"></script>
+		<script src="./js/three.min.js"></script>
 
-		<script src="js/controls/TrackballControls.js"></script>
-		<script src="js/loaders/OBJLoader.js"></script>
-		<script src="js/loaders/RGBELoader.js"></script>
-		<script src="js/loaders/HDRCubeTextureLoader.js"></script>
+		<script src="./js/controls/TrackballControls.js"></script>
+		<script src="./js/loaders/OBJLoader.js"></script>
+		<script src="./js/loaders/RGBELoader.js"></script>
+		<script src="./js/loaders/HDRCubeTextureLoader.js"></script>
 
-		<script src="js/pmrem/PMREMGenerator.js"></script>
-		<script src="js/pmrem/PMREMCubeUVPacker.js"></script>
+		<script src="./js/pmrem/PMREMGenerator.js"></script>
+		<script src="./js/pmrem/PMREMCubeUVPacker.js"></script>
 
 		<script src="js/Detector.js"></script>
 		<script src="js/libs/stats.min.js"></script>
@@ -99,7 +99,7 @@
 				renderer.toneMappingExposure = 3;
 
 				var textureCube = new THREE.CubeTextureLoader()
-					.setPath( 'textures/lens/pisa/' )
+					.setPath( './textures/lens/pisa/' )
 					.load( [ 'px.png', 'nx.png', 'py.png', 'ny.png', 'pz.png', 'nz.png' ] );
 
 				scene = new THREE.Scene();
@@ -111,7 +111,7 @@
 
 				//
 
-				var path = 'models/lens/';
+				var path = './models/lens/';
 
 				var loader = new THREE.OBJLoader();
 				var material = new THREE.MeshStandardMaterial();
@@ -158,7 +158,7 @@
 					];
 				};
 
-				var hdrUrls = genCubeUrls( 'textures/lens/pisaHDR/', '.hdr' );
+				var hdrUrls = genCubeUrls( './textures/lens/pisaHDR/', '.hdr' );
 				new THREE.HDRCubeTextureLoader().load( THREE.UnsignedByteType, hdrUrls, function ( hdrCubeMap ) {
 
 					var pmremGenerator = new THREE.PMREMGenerator( hdrCubeMap );
