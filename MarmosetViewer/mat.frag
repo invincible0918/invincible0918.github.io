@@ -201,7 +201,8 @@ dE=min(dE,1.0e3);
 #endif
 
 //for dynamic lights
-for(int u=0;u<LIGHT_COUNT;++u){
+for(int u=0;u<LIGHT_COUNT;++u)
+{
 	vec3 dN=uLightPositions[u].xyz-D*uLightPositions[u].w;
 	float dO=inversesqrt(dot(dN,dN));
 	dN*=dO;

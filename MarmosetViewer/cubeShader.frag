@@ -32,17 +32,18 @@ vec3 toneMap(vec3 col)
 	return(sqrtc -sqrtc *col)+col*(0.4672*col+vec3(0.5328));
 }
 
-void main(void) {
+void main(void)
+{
 	vec4 col = texture2D(mainColor,vUv);
 
     float ExposureBias = 2.0;
-   vec3 curr = Uncharted2Tonemap(ExposureBias*col.xyz);
+    vec3 curr = Uncharted2Tonemap(ExposureBias*col.xyz);
 
-   vec3 whiteScale = 1.0/Uncharted2Tonemap(vec3(W));
-   vec3 rcolor = curr*whiteScale;
+    vec3 whiteScale = 1.0/Uncharted2Tonemap(vec3(W));
+    vec3 rcolor = curr*whiteScale;
       
-   vec3 retColor = pow(rcolor,vec3(1.0/2.2));
-	gl_FragColor = vec4(col.xyz,0.0);
+    vec3 retColor = pow(rcolor,vec3(1.0/2.2));
+    gl_FragColor = vec4(col.xyz, 0.0);
 }
 
 

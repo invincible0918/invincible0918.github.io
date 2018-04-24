@@ -1,11 +1,14 @@
 marmoset = {};
-(function (marmoset) {
+(function (marmoset)
+{
     'use strict';
 
-    function Archive(binary) {
+    function Archive(binary)
+    {
         this.files = [];
         var byteStream = new ByteStream(binary);
-        while (!byteStream.empty()) {
+        while (!byteStream.empty())
+        {
             var block = {};
             block.name = byteStream.readCString();
 
@@ -15,31 +18,39 @@ marmoset = {};
                 decompressedLength = byteStream.readUint32();
             block.data = byteStream.readBytes(length);
 
-            if (block.data.length >= length) {
+            if (block.data.length >= length)
+            {
 
-                if (needDecompress & 1) {
+                if (needDecompress & 1)
+                {
                     block.data = this.decompress(block.data, decompressedLength);
-                    if (null !== block.data) {
+                    if (null !== block.data)
+                    {
                         this.files[block.name] = block;
                     }
-                } else {
+                }
+                else
+                {
                     this.files[block.name] = block;
                 }
             }
         }
     }
 
-    Archive.prototype.get = function (name) {
+    Archive.prototype.get = function (name)
+    {
         return this.files[name]
     };
 
-    Archive.prototype.extract = function (name) {
+    Archive.prototype.extract = function (name)
+    {
         var data = this.files[name];
         delete this.files[name];
         return data;
     };
 
-    Archive.prototype.decompress = function (input, dataLength) {
+    Archive.prototype.decompress = function (input, dataLength)
+    {
         var result = new Uint8Array(dataLength),
             counter = 0,
             counters = new Uint32Array(4096),
@@ -49,7 +60,8 @@ marmoset = {};
             l = 1;
         result[counter++] = input[0];
         var i = 1;
-        for (;;) {
+        for (;;)
+        {
             var n = i + (i >> 1);
            //连续两个数字，然后空一个
             if (n + 1 >= input.length) break;
@@ -151,15 +163,18 @@ marmoset = {};
         return params;
     };
 
-    var setupShaders = function () {
+    var setupShaders = function ()
+    {
         ShaderTable["postfrag.glsl"] = marmoset.texts["post.frag"];
     };
-    var embed = function (sceneUrl, params) {
+    var embed = function (sceneUrl, params)
+    {
         setupShaders();
         var webViwer;
         params = prepareEmbedParams(params);
         var thumbnailURL = params.thumbnailURL;
-        if (params.pagePreset) {
+        if (params.pagePreset)
+        {
             webViwer = new WebViewer(params.width, params.height, sceneUrl, !!thumbnailURL);
             document.body.style.backgroundColor = "#d7e4da";
             var container = document.createElement("div");
@@ -196,7 +211,9 @@ marmoset = {};
                     };
                 setSize();
             }
-        } else {
+        }
+        else
+        {
             var width = params.fullFrame ? window.innerWidth : params.width,
                 height = params.fullFrame ? window.innerHeight : params.height;
             webViwer = new WebViewer(width, height, sceneUrl, !!thumbnailURL);
@@ -4270,7 +4287,8 @@ marmoset = {};
     };
 
     //decoded
-    function WebViewer(width, height, sceneURL, haveThumbnail) {
+    function WebViewer(width, height, sceneURL, haveThumbnail)
+    {
         //this.mobile = /Android|iPhone|iPod|iPad|Windows Phone|IEMobile|BlackBerry|webOS/.test(navigator.userAgent);
         this.mobile = false;
         this.domRoot = document.createElement("div");
@@ -4393,33 +4411,43 @@ marmoset = {};
         }
     };
 
-    WebViewer.prototype.loadScene = function (sceneUrl) {
+    WebViewer.prototype.loadScene = function (sceneUrl)
+    {
         this.sceneURL = sceneUrl || this.sceneURL;
         this.scene = this.input = null;
-        if (this.initGL() && this.sceneURL) {
+        if (this.initGL() && this.sceneURL)
+        {
 
             var loading = this.ui.signalLoadProgress.bind(this.ui);
 
-            var successCallBack = function (a) {
+            var successCallBack = function (a)
+            {
                 loading(1, 1);
                 this.scene = new Scene(this.gl);
                 this.scene.stripData = this.stripData;
-                if (this.scene.load(new Archive(a))) {
-                    if (2070 >= this.scene.metaData.tbVersion) {
+                if (this.scene.load(new Archive(a)))
+                {
+                    if (2070 >= this.scene.metaData.tbVersion)
+                    {
                         this.ui.showFailure("This .mview file is from an out-of-date beta version of Toolbag. Please re-export it with the new version. Thanks!");
-                    } else {
+                    }
+                    else
+                    {
                         this.bindInput();
                         this.requestFrame(this.updateLoad.bind(this));
-                        if (this.onLoad) {
+                        if (this.onLoad)
+                        {
                             this.onLoad();
                         }
                     }
-                } else {
+                } else
+                {
                     this.ui.showFailure("Package file could not be read or is invalid.");
                 }
             }.bind(this);
 
-            var failCallBack = function () {
+            var failCallBack = function ()
+            {
                 this.ui.showFailure("Package file (" + this.sceneURL + ") could not be retrieved.");
             }.bind(this);
 
