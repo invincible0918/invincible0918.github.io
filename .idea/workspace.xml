@@ -4,8 +4,293 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="">
+    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="Update resume">
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/3dsmax-20172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/HyperHeroes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/MotionBuilder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/Photoshop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/Unreal-symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/avatar_frontiers_of_pandora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/coc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/com.quixel.Bridge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/everest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/fc_m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/fifa_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/fifa_online3_m.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/kongfupanda3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/maya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/need_for_speed_mobile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/pt_appicon_noshadow_512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/pvz2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/python.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/qt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/renderdoc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/rv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/sd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/shaman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/shotgun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/snapdragon-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/sp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/unity-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace/assets/images/xcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/flex-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/owl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/css/templatemo-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/author-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/first-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/first-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/fourth-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/fourth-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/left-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/page-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/portfolio-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/right-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/second-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/second-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/third-main-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/images/third-white-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/ie/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/ie/backgroundsize.min.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/ie/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/ie/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/jquery.poptrox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/owl-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/ie8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/libs/_skel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/fulls/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/marmoset/p0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/marmoset/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/marmoset/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/marmoset/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/marmoset/thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/rv/p0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/rv/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/rv/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/images/thumbs/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/prepros-6.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySpace2/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/css/ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/css/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/images/author-image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/images/author-image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/ie/PIE.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/ie/backgroundsize.min.htc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/ie/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/ie/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/jquery.poptrox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/skel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/js/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/ie8.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/libs/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/libs/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/libs/_skel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/libs/_vars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/assets/sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/avatar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/fulls/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/marmoset/p0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/marmoset/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/marmoset/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/marmoset/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/marmoset/thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/rv/p0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/rv/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/rv/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/images/thumbs/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySpace/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/css/flex-slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/css/fontawesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/css/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/css/owl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/css/templatemo-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/flexslider-icon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/flexslider-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/flexslider-icon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/flexslider-icon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/slick.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/slick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/slick.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/fonts/slick.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/3dsmax-20172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/HyperHeroes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/MotionBuilder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/Photoshop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/Unreal-symbol.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/author-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/avatar_frontiers_of_pandora.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/coc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/com.quixel.Bridge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/everest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/fc_m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/fifa_m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/fifa_online3_m.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/first-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/first-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/fourth-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/fourth-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/kongfupanda3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/left-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/maya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/need_for_speed_mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/page-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/portfolio-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/pt_appicon_noshadow_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/pvz2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/qt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/renderdoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/right-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/rv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/sd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/second-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/second-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/shaman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/shotgun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/snapdragon-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/sp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/third-main-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/third-white-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/unity-logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/images/xcode.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/js/isotope.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/js/lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/assets/js/owl-carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/prepros-6.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templatemo_531_reflux/vendor/jquery/jquery.slim.min.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +324,18 @@
       <option name="presentableId" value="Default" />
       <updated>1705283842540</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update resume">
+      <created>1705310183418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705310183418</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update resume" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update resume" />
   </component>
 </project>
