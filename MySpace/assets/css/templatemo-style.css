@@ -626,7 +626,7 @@ figure.snip1321:hover:after,
 figure.snip1321.hover:after {
   -webkit-transform: rotateX(0);
   transform: rotateX(0);
-  opacity: 0.9;
+  opacity: 0.0;
 }
 
 
