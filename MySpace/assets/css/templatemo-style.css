@@ -537,6 +537,12 @@ section.my-work .section-heading {
     border-radius: 5px;
 }
 
+.isotope-item iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
 .lazyload {
     background: #f7f7f7;
 }

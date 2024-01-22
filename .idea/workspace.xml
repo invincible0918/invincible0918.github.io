@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="Update resume">
+    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="Add video">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySpace/assets/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/css/templatemo-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySpace/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/index.html" afterDir="false" />
@@ -29,7 +29,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/Personal"
+    "last_opened_file_path": "F:/Personal",
+    "settings.editor.selected.configurable": "preferences.general"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705310451642</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add video">
+      <created>1705562891915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705562891915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update resume" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update resume" />
+    <MESSAGE value="Add video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add video" />
   </component>
 </project>
