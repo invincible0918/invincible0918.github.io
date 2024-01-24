@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="Add video">
+    <list default="true" id="38a73936-afeb-4cdc-bd4d-9892d3fa1867" name="Changes" comment="Add face rig">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySpace/assets/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/assets/css/templatemo-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySpace/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MySpace/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705562891915</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add video">
+      <created>1705907790927</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705907790927</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add face rig">
+      <created>1705907820909</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705907820909</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +93,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update resume" />
     <MESSAGE value="Add video" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add video" />
+    <MESSAGE value="Add face rig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add face rig" />
   </component>
 </project>
